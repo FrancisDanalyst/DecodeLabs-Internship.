@@ -1,16 +1,20 @@
-# Project 1: Data Cleaning and Preparation
+# Project 1: Data Cleaning & Preparation
 
 ## Objective
-Clean a raw e-commerce orders dataset by handling missing values, fixing date formats, and removing inconsistencies.
+Clean a raw e-commerce orders dataset by handling 
+missing values, fixing date formats, and removing 
+inconsistencies.
 
 ## Tools Used
--Microsoft Excel
+- Power BI (Power Query)
+- Microsoft Excel
 
 ## What I Did
 - Fixed date column format from numbers to proper dates
 - Replaced blank CouponCode cells with "No Coupon"
 - Removed duplicate entries
 - Standardized currency formatting
+- Used Power Query to transform and clean data
 
 ## Dataset
 - Raw file: Messy Dataset.csv
@@ -20,4 +24,5 @@ Clean a raw e-commerce orders dataset by handling missing values, fixing date fo
 ## Skills Demonstrated
 - Data cleaning
 - Data preparation
+- Power Query transformations
 - Excel formatting
